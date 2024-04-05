@@ -73,3 +73,4 @@ print(model)
 accuracy = model.score(X_test, y_test) 
 
 print("Model Accuracy:", accuracy) 
+print("Go Brewers!")
